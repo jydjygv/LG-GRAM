@@ -12,3 +12,10 @@ Whats working
 Whats not working
 - Sd card reader
 - touchscreen
+
+
+
+thank you @capricornlee without you I woudldn't have been able to do this
+
+link to capricornlee's guide
+https://github.com/capricornlee/LG-Gram13-Z990
