@@ -508,13 +508,13 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02942501CDJH4R1M</string>
+		<string>C02048306CDJH4RJA</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>ProductName</key>
 		<string>MacBookPro15,2</string>
 		<key>SmUUID</key>
-		<string>A008B7C7-3AD2-42E5-970D-8DAB88243A50</string>
+		<string>A369629E-15F1-4512-A4F5-473383263738</string>
 		<key>Mobile</key>
 		<true/>
 		<key>BoardType</key>
@@ -522,7 +522,7 @@
 		<key>EfiVersion</key>
 		<string>1037.80.41.0.0</string>
 		<key>SerialNumber</key>
-		<string>C02ZKBYBJHCC</string>
+		<string>C02DR0Y4JHCC</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>BiosReleaseDate</key>
