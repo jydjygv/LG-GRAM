@@ -28,7 +28,7 @@ Whats not working
 - touchscreen
 
 - display brightness is not adjustable with the keyboard shortcuts but you can do it thru settings
-it is possible to use the keyboard but I'm just to lazy to do it :)
+  -it is possible to use the keyboard but I'm just to lazy to do it :)
 
 -the battery indicator is a little glitchy and goes to 100% when you plug in the charger but the goes back to normal after about two minutes
 
