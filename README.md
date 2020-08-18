@@ -32,7 +32,7 @@ it is possible to use the keyboard but I'm just to lazy to do it :)
 
 -the battery indicator is a little glitchy and goes to 100% when you plug in the charger but the goes back to normal after about two minutes
 
-thank you @capricornlee without you I woudldn't have been able to do this
+thank you @capricornlee without you I wouldn't have been able to do this
 
 link to capricornlee's guide
 https://github.com/capricornlee/LG-Gram13-Z990
