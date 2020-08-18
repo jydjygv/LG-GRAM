@@ -2,7 +2,7 @@
 
 Lg gram 13 z990 hackintosh
 
-Note I added a apple wifi card using one of my nvme ports
+Note I added a apple wifi card using one of my nvme ports to get wifi working
 
 
 
@@ -31,6 +31,8 @@ Whats not working
   -it is possible to use the keyboard but I'm just to lazy to do it :)
 
 -the battery indicator is a little glitchy and goes to 100% when you plug in the charger but the goes back to normal after about two minutes
+
+-the integrated wifi
 
 thank you @capricornlee without you I wouldn't have been able to do this
 
