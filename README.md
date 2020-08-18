@@ -6,8 +6,7 @@ Note I added a apple wifi card using one of my nvme ports to get wifi working
 
 
 
-Whats working
-basically everything:
+Whats working 
 
 - display
 - keyboard backlight
@@ -15,6 +14,8 @@ basically everything:
 - USB C port
 - Both of the USB 3.0 ports
 - Sd card reader
+- shutdown
+- restart
 - sleep
 - sleep/wake when you close and open the laptop screen
 - speakers
@@ -22,6 +23,8 @@ basically everything:
 - camera
 - microphone
 - trackpad
+- pretty much everything is working
+
 
 Whats not working
 
